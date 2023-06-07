@@ -1,4 +1,9 @@
+.ipynb_checkpoints
+
 # exclude everything
-training/*
+dataset/*
 # exception to the rule
-!training/requirements.txt
+!dataset/requirements.txt
+
+
+training/PlantVillage/*
