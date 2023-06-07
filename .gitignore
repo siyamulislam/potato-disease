@@ -1,0 +1,4 @@
+# exclude everything
+training/*
+# exception to the rule
+!training/requirements.txt
