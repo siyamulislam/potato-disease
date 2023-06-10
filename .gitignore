@@ -1,6 +1,10 @@
 .ipynb_checkpoints
 .git
 .idea
+.vscode
+.pycharm
+__pycache__
+models.config
 
 # exclude everything
 dataset/*
