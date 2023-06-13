@@ -1,4 +1,0 @@
-put the data set here
-
-data link
-https://www.kaggle.com/datasets/arjuntejaswi/plant-village

@@ -10,6 +10,8 @@ models.config
 dataset/*
 # exception to the rule
 !dataset/requirements.txt
-
-
+training/PlantVillage.zip
+training/dataset/
 training/PlantVillage/*
+
+frontend/
